@@ -29,6 +29,9 @@ dist-ssr
 *.svg
 *.png
 
+!home.png
+!admin.png
+
 ./src/components/images/*.png
 ./dist/assets/*.png
 ./dist/assets/*.svg

@@ -1,6 +1,13 @@
 
 # Delivery App Build in => React, tailwind, firebase, framer Motion and more..
 
+
+## Screenshots
+
+![Home Screenshot](./home.png?raw=true "Home Page")
+![admin Screenshot](./admin.png?raw=true "Admin Dashboard")
+
+
 ## Introduction :
 
 #### The App is Called City App offers a high quality service in Quality of food and Delivery Time, also The app Offers Registration With Google and Admin can add more Meals to offer
@@ -13,6 +20,17 @@
 - Cart Features ( Add Meal, Remove, Increase the Quantity ) 
 - Responsive ( Runs on all Devices )
 - Admin Dashboard To Add New Meals with a new ( title, image, calories, price )
+
+
+
+## Tech Used
+
+- React ( Offers Single Web Application App thanks to routing system ) + Redux
+- tailwindCss ( styling and structure of the ui )
+- framer-motion ( Adds Animation to App Components )
+
+- **Server:** Firebase ( Auth, Image Database )
+
 
 
 
@@ -47,4 +65,3 @@ Start the server ( The App run on Vite )
 ## Live Preview :
 
 - [App_Preview](https://restaurant-app-f6f44.web.app/)
-
